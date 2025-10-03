@@ -22,7 +22,7 @@ I’m a Junior AI/ML Engineer with a background in Marketing, passionate about u
 ## Reach Me
 - LinkedIn: [linkedin.com/in/rosheedatdasolabusari](https://linkedin.com/in/rosheedatdasolabusari)  
 - GitHub: [github.com/RosheedatDasola](https://github.com/RosheedatDasola)  
-- Email: your-email-here  
+- Email: rosheedatdasolabusari@gmail.com  
 
 I am curious, consistent, and always learning. My goal is to use AI/ML to create solutions that make life smarter, simpler, and more impactful.
 
